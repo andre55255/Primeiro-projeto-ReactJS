@@ -1,0 +1,47 @@
+.pesquisa-contato {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100%;
+}
+
+.ico-form {
+    font-size: 1.3rem;
+}
+
+.ico-wpp {
+    font-size: 1.8rem;
+    color: #26c026;
+
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.ico-wpp:hover {
+    color: #67ff02;
+}
+
+.ico-alt {
+    font-size: 1.8rem;
+    color: #d3d341;
+
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.ico-alt:hover {
+    color: #ffff00;
+}
+
+.ico-del {
+    font-size: 1.8rem;
+    color: #7c2727;
+
+    cursor: pointer;
+    transition: all .5s;
+}
+
+.ico-del:hover {
+    color: #ff0000;
+}

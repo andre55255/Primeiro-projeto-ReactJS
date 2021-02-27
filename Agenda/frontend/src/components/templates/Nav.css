@@ -1,0 +1,12 @@
+.menu {
+    background: linear-gradient(to right, #093028, #237a57);
+}
+
+.menu .nav-item > a {
+    color: #fff;
+    transition: all .5s;
+}
+
+.menu .nav-item > a:hover {
+    color: #63e2af;
+}

@@ -1,0 +1,19 @@
+.rodape {
+    background: linear-gradient(to right, #093028, #237a57);
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape > small {
+    font-size: 1.1rem;
+    font-weight: 300;
+    color: #fff;
+}
+
+.rodape > small > i {
+    font-size: 1.2rem;
+    color: #e03e3e;
+    margin: 0 4px;
+}

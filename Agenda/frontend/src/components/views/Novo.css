@@ -1,0 +1,11 @@
+.novo-contato {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100%;
+}
+
+.ico-form {
+    font-size: 1.3rem;
+}
