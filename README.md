@@ -1,2 +1,2 @@
-# aprendendo_react
+# Primeiro projeto ReactJS
 Iniciando com React
